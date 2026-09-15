@@ -1,1 +1,62 @@
-# Hospital_Emergency_Analysis
+# 🏥 Hospital Emergency Room Dashboard
+
+## 📊 Project Overview
+
+This project is an **Interactive Hospital Emergency Room Dashboard** designed to analyze and visualize hospital emergency room data.
+
+## 🎯 Objectives
+
+The main objective of this project is to analyze emergency room data and understand patient patterns, admission status, timeliness, gender distribution, age distribution, and department referrals.
+
+## 🔍 Key Analysis
+
+### 🏥 Patient Admission Status
+Analyzed the number of patients who were:
+- Admitted
+- Not Admitted
+
+### 👥 Patient Age Distribution
+Grouped patients by age to understand the distribution of emergency room visits across different age groups.
+
+### ⏱️ Timeliness
+Measured the percentage of patients who were **seen within 30 minutes**.
+
+### ⚥ Gender Analysis
+Analyzed the number of patients based on gender.
+
+### 🩺 Department Referrals
+Identified which hospital departments received the highest number of patient referrals.
+
+## 📌 Key Performance Indicators (KPIs)
+
+- Total Patients
+- Average Wait Time
+- Patient Satisfaction Score
+- Admission Status
+- Timeliness Percentage
+- Gender Distribution
+- Department Referrals
+
+## 🛠️ Tools & Skills
+
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Interactive Dashboard Design
+- KPI Analysis
+
+## 📈 Dashboard Features
+
+The dashboard provides an interactive view of hospital emergency room data and allows users to easily understand important patient and operational trends.
+
+## 🎓 Learning Outcome
+
+Through this project, I improved my understanding of:
+
+- Data analysis
+- Dashboard creation
+- Interactive visualizations
+- KPI development
+- Healthcare data analysis
+- Presenting data-driven insights
