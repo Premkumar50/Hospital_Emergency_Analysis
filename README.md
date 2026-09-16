@@ -27,6 +27,9 @@ Analyzed the number of patients based on gender.
 ### 🩺 Department Referrals
 Identified which hospital departments received the highest number of patient referrals.
 
+## Dataset used
+- <a href="https://github.com/Premkumar50/Sales-And-Profit-Analysis/blob/main/Sales%20and%20Profit%20Analisis.xlsx">Dataset</a>
+
 ## 📌 Key Performance Indicators (KPIs)
 
 - Total Patients
