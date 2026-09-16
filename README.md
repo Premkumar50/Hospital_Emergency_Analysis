@@ -29,6 +29,7 @@ Identified which hospital departments received the highest number of patient ref
 
 ## Dataset used
 - <a href="https://github.com/Premkumar50/Hospital_Emergency_Analysis/blob/main/Hospital%20Emergency%20Data.csv">Dataset</a>
+- <a href="https://github.com/Premkumar50/Hospital_Emergency_Analysis/blob/main/Hospital%20Emergency%20Dashboard.xlsx">Dashboard</a>
 
 ## 📌 Key Performance Indicators (KPIs)
 
