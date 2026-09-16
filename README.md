@@ -7,6 +7,7 @@ This project is an **Interactive Hospital Emergency Room Dashboard** designed to
   ## Dashboard
   <img width="1855" height="651" alt="Screenshot 2026-08-30 160310" src="https://github.com/user-attachments/assets/dfe9a29e-a871-4bd8-88d2-746be9b64630" />
 
+
 ## 🎯 Objectives
 
 The main objective of this project is to analyze emergency room data and understand patient patterns, admission status, timeliness, gender distribution, age distribution, and department referrals.
